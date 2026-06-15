@@ -1,0 +1,8 @@
+/.DS_Store
+/.venv
+/.vscode
+/__pycache__
+/catalogo_libri
+/ideaprogetto.md
+/libri.py
+/main.py
