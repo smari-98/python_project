@@ -36,3 +36,6 @@ for c in range(1,5):
         print(d*'*')
 
     print(c*'#')
+
+for d in range(1,15):
+    print(d*num)
