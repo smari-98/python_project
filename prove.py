@@ -16,9 +16,11 @@ person = {
         'zipcode':'00000'
      }
     }
-# print(person)
+#stampa persona
+print(person)
 #print()
-#num=int(input("inserisci un valore:"))
+
+num=int(input("inserisci un valore:"))
 
 #for a in range(1,num):
  #   print(" - ", a)
